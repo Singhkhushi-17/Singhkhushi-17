@@ -63,11 +63,16 @@ APIs & Advanced JavaScript
 Backend Development
      ↓
 Full-Stack Development
+
+
+
 ## 🔗 Let's Connect
 
 💼 [LinkedIn](www.linkedin.com/in/khushi-singh1706)  
 🌐 [Portfolio](https://github.com/Singhkhushi-17/My-portfolio)  
 📂 [GitHub](https://github.com/Singhkhushi-17)
+
+
 Thank you..
 ---
 
