@@ -109,3 +109,15 @@ Real-World Projects
 Stronger Problem Solving
       ↓
 Better Developer
+## 🔗 Let's Connect
+
+💼 [LinkedIn](www.linkedin.com/in/
+khushi-singh1706
+)  
+🌐 [Portfolio](my-portfolio-bice-phi-46.vercel.app)  
+📂 [GitHub](https://github.com/Singhkhushi-17)
+
+---
+
+Thanks you!  
+### 💡 Always learning. Always building.. 
